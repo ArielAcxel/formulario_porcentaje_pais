@@ -1,0 +1,10 @@
+.cabecera {
+    text-align: center;
+    color: blue;
+    background-color: black;
+    top: 0;
+}
+
+.boton {
+    margin-left: 45%;
+}
